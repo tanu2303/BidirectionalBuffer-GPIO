@@ -1,5 +1,5 @@
 # BIDIRECTIONAL BUFFER
-This project discusses the BiDirectional Buffer and implementation of General Purpose Input Output(GPIO).GPIO circuitvis implemented using MOSFETS' only and it is all Mosfets' implementation.
+This project discusses the BiDirectional Buffer and implementation of General Purpose Input Output(GPIO).GPIO circuit is implemented using MOSFETS' only and it is all Mosfets' implementation.
 
 # SETUP FOR SIMULATION
 1.Download LTspice from https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html and install LTspice simulatorXVII on your Windows system.You can download according to your operating system,here Windows 10 is used.
