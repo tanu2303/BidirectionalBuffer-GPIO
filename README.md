@@ -22,7 +22,7 @@ LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceX
    
    4.Afterwards basic installation steps are followed.
 	
-#SCHEMATICS AND SIMULATIONS
+# SCHEMATICS AND SIMULATIONS
 
   1.After installation Go to New schematic option on top left and draw circuit schematic using components available on top.
   
@@ -37,6 +37,52 @@ LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceX
   6.SPICE NETLIST can be obtained from View->SPICE Netlist.
   
 # GLANCE AT WAVEFORMS OF GPIO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
