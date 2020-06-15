@@ -1,20 +1,35 @@
 # BIDIRECTIONAL BUFFER
 This project discusses the BiDirectional Buffer and implementation of General Purpose Input Output(GPIO).GPIO circuit is implemented using MOSFETS' only and it is all Mosfets' implementation.
 
-# SETUP FOR SIMULATION
-1.Download LTspice from https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html and install LTspice simulatorXVII on your Windows system.You can download according to your operating system,here Windows 10 is used.
+# TOOL USED
+LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceXVII is a spice simulation software produced by semiconductor manufacturer Analog Devices. Schematic of circuits and the waveforms can be obtained easily from this tool.
 
-2.After installation Go to New schematic option on top left and draw circuit schematic using components available on top.
+# INSTALLING LTSpiceXVII
 
-3.Go to Edit->Spice Directive’S’ to edit text on the schematic. Also provide input voltage as required by clicking right button and then advanced and changing input form as required. Save circuit with extension (.asc).
+   FOR Windows AND MacOS
 
-4.To open file which is already created,Go to File->Open(Ctrl+O) and select file with .asc extension.
+	1.Download LTspice from https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html 
+  2.Follow basic installation steps and install LTspice simulatorXVII on your Windows system or Mac.You can download according to your       operating system.
 
-5.Go to Simulate->Run to obtain waveforms.
+   FOR LINUX OS
+	1.LINUX Users have to install WINE from https://wiki.winehq.org/Download as LTSpice is not directly supported.
+	2.Similar steps are followed as mentioned for windows to download LTspice setup.
+  3.Right click on the downloaded setup file and select the option Open With Wine Windows Program Loader.
+	4.Afterwards basic installation steps are followed.
+	
+#SCHEMATICS AND SIMULATIONS
 
-6.You can select parameters you want to display or directly click on that part of circuit(to be displayed). 
+  1.After installation Go to New schematic option on top left and draw circuit schematic using components available on top.
 
-7.SPICE NETLIST can be obtained from View->SPICE Netlist.
+	3.Go to Edit->Spice Directive’S’ to edit text on the schematic. Also provide input voltage as required by clicking right button and then advanced and changing input form as required. Save circuit with extension (.asc).
+
+	4.To open file which is already created,Go to File->Open(Ctrl+O) and select file with .asc extension.
+
+	5.Go to Simulate->Run to obtain waveforms.
+
+	6.You can select parameters you want to display or directly click on that part of circuit(to be displayed). 
+
+	7.SPICE NETLIST can be obtained from View->SPICE Netlist.
 
 # CONTACT INFORMATION
 I.TANVI ARORA,ECE,Deenbandhu Chhotu Ram Universiy of Science and Technology,Murthal,Haryana. tanviarora1058@gmail.com
