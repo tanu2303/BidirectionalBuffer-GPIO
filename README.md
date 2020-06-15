@@ -9,13 +9,17 @@ LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceX
    FOR Windows AND MacOS
 
   1.Download LTspice from https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html 
+  
   2.Follow basic installation steps and install LTspice simulatorXVII on your Windows system or Mac.You can download according to your       operating system.
 
    FOR LINUX OS
 	
    1.LINUX Users have to install WINE from https://wiki.winehq.org/Download as LTSpice is not directly supported.
+   
    2.Similar steps are followed as mentioned for windows to download LTspice setup.
+   
    3.Right click on the downloaded setup file and select the option Open With Wine Windows Program Loader.
+   
    4.Afterwards basic installation steps are followed.
 	
 #SCHEMATICS AND SIMULATIONS
