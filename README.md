@@ -39,54 +39,16 @@ LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceX
 # GLANCE AT WAVEFORMS OF GPIO
 
 ![](GPIO_IPa.png)
+
+FIG-INPUT BUFFER--1
+
 ![](GPIO_IPb.png)
+
+FIG-OUTPUT BUFFER
+
 ![](GPIO_IPc.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+FIG-INPUT BUFFER--2
 
 # CONTACT INFORMATION
 I.TANVI ARORA,ECE,Deenbandhu Chhotu Ram Universiy of Science and Technology,Murthal,Haryana. tanviarora1058@gmail.com
