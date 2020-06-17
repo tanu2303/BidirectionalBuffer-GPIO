@@ -40,15 +40,15 @@ LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceX
 
 ![](GPIO_IPa.png)
 
-FIG-INPUT BUFFER--1
+FIG-INPUT BUFFER--1 , ENABLE(Red) = 1 
 
 ![](GPIO_IPb.png)
 
-FIG-OUTPUT BUFFER
+FIG-OUTPUT BUFFER , ENABLE(Red)=0
 
 ![](GPIO_IPc.png)
 
-FIG-INPUT BUFFER--2
+FIG-INPUT BUFFER--2 , ENABLE(Red)=1
 
 # CONTACT INFORMATION
 I.TANVI ARORA,ECE,Deenbandhu Chhotu Ram Universiy of Science and Technology,Murthal,Haryana. tanviarora1058@gmail.com
