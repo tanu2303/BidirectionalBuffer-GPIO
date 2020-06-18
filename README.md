@@ -35,7 +35,9 @@ LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceX
   5.You can select parameters you want to display or directly click on that part of circuit(to be displayed). 
 
   6.SPICE NETLIST can be obtained from View->SPICE Netlist.
-  
+# circuit of gpio
+![](ckt-gpio.png)
+
 # GLANCE AT WAVEFORMS OF GPIO
 
 ![](GPIO_IPa.png)
@@ -49,6 +51,53 @@ FIG-OUTPUT BUFFER , ENABLE(Red,Vn001)=0
 ![](GPIO_IPc.png)
 
 FIG-INPUT BUFFER--2 , ENABLE(Vn003)=1
+
+# simulation by ngspice
+
+ngspice is the open source simulator.
+
+here are steps to download ngspice through which we will run .cir netlist generated in ltspice
+
+1.download ngspice
+
+![](1.png)
+
+2.download ngspice gui
+
+![](2.png)
+
+3.unzip it.
+
+![](3.png)
+
+4.DuSpiceStart.exe will appear on specified path ,open it. 
+
+![](4.png)
+
+5.click on new file and add your .cir file.
+
+![](5.png)
+
+6.in ng spice setup set it for ltspice
+
+![](6.png)
+
+7.click on start interact.
+
+![](7.png)
+
+8.ltspice will open and click on  traces.
+
+![](8.png)
+
+9.select parameters.
+
+![](9.png)
+
+10.waveform is displayed.
+
+![](10.png)
+
 
 # CONTACT INFORMATION
 I.TANVI ARORA,ECE,Deenbandhu Chhotu Ram Universiy of Science and Technology,Murthal,Haryana. tanviarora1058@gmail.com
