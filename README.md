@@ -61,6 +61,7 @@ here are steps to download ngspice through which we will run .cir netlist genera
 1.download ngspice
 
 ![](ngspice images/1.png)
+![](ngspice images/ 1.png )
 
 2.download ngspice gui
 
