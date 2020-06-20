@@ -1,0 +1,23 @@
+* C:\Users\DELL\Desktop\LTSPICENETLIST\Gpio@bidibuff.asc
+M1 from_pad from_pad vdd N007 PMOS
+M2 vdd from_pad N010 N008 PMOS
+M3 vdd N010 to_core N009 PMOS
+M5 N010 from_pad 0 N012 NMOS
+M6 to_core N010 0 N013 NMOS
+M4 0 from_pad from_pad N011 NMOS
+V1 from_pad 0 PULSE(0 2 0 1ms 1ms 7ms 10ms)
+M7 Vdd Vdd N004 N002 NMOS
+M8 Vdd from_int_ckt out_to_pad N003 NMOS
+M9 N004 from_int_ckt 0 N005 NMOS
+M10 out_to_pad N004 0 N006 NMOS
+V2 from_int_ckt 0 PULSE(0 2 0 1ms 1ms 7ms 10ms)
+M11 EN0 EN1 0 0 NMOS
+M12 Vdd EN1 EN0 N001 PMOS
+V3 EN1 0 PULSE(0 2 0 1ms 1ms 7ms 10ms)
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\DELL\Documents\LTspiceXVII\lib\cmp\standard.mos
+Vdd Vdd 0 DC 3.8
+.tran 0 100ms 0 100ms
+.backanno
+.end
