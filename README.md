@@ -72,31 +72,31 @@ here are steps to download ngspice through which we will run .cir netlist genera
 
 4.DuSpiceStart.exe will appear on specified path ,open it. 
 
-![](ngspice images/4.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/4.png)
 
 5.click on new file and add your .cir file.
 
-![](ngspice images/5.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/5.png)
 
 6.in ng spice setup set it for ltspice
 
-![](ngspice images/6.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/6.png)
 
 7.click on start interact.
 
-![](ngspice images/7.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/7.png)
 
 8.ltspice will open and click on  traces.
 
-![](ngspice images/8.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/8.png)
 
 9.select parameters.
 
-![](ngspice images/9.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/9.png)
 
 10.waveform is displayed.
 
-![](ngspice images/10.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/10.png)
 
 
 # CONTACT INFORMATION
