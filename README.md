@@ -60,15 +60,15 @@ here are steps to download ngspice through which we will run .cir netlist genera
 
 1.download ngspice
 
-![](ngspice images/1.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/1.png)
 
 2.download ngspice gui
 
-![](ngspice images/2.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/2.png)
 
 3.unzip it.
 
-![](ngspice images/3.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/3.png)
 
 4.DuSpiceStart.exe will appear on specified path ,open it. 
 
