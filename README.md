@@ -56,6 +56,28 @@ FIG-INPUT BUFFER--2 , ENABLE(Vn003)=1
 
 ngspice is the open source simulator.
 
+# NGSPICE 32
+1. Download ngspice32 and after installing spice64 folder is seen.
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
+
+2.add your cir file to its bin folder.
+
+3.click on ngspice.exe and write name of your file added.
+
+4.then give cmd RUN
+
+5.after that display
+
+6.now give command plot en0,from_int_ckt,out_to_pad and waveform is seen
+
+7.now plot en1
+
+8.now plot from_pad
+
+9.now plot to_core
+
+10.after execution give cmd quit
+
 here are steps to download ngspice through which we will run .cir netlist generated in ltspice
 
 1.download ngspice
