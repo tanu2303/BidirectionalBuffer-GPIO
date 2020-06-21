@@ -58,23 +58,31 @@ ngspice is the open source simulator.
 
 # NGSPICE 32
 1. Download ngspice32 and after installing spice64 folder is seen.
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/A.png)
 
 2.add your cir file to its bin folder.
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/B.png)
 
 3.click on ngspice.exe and write name of your file added.
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/C.png)
 
 4.then give cmd RUN
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/D.png)
 
 5.after that display
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/E.png)
 
 6.now give command plot en0,from_int_ckt,out_to_pad and waveform is seen
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/F.png)
 
 7.now plot en1
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/G.png)
 
 8.now plot from_pad
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/H.png)
 
 9.now plot to_core
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/I.png)
 
 10.after execution give cmd quit
 
