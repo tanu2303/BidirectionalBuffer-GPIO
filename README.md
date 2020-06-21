@@ -36,7 +36,7 @@ LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceX
 
   6.SPICE NETLIST can be obtained from View->SPICE Netlist.
 # circuit of gpio
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms/ckt-gpio.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
 
 # GLANCE AT WAVEFORMS OF GPIO
 
