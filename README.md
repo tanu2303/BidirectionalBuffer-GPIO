@@ -39,7 +39,7 @@ LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceX
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
 
 
--- basic circuit of gpio
+# basic circuit of gpio
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/basic_ckt.png)
 
 # GLANCE AT WAVEFORMS OF GPIO
