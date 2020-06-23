@@ -1,0 +1,24 @@
+* C:\Users\DELL\Desktop\NETLIST-.cir\Gpio-Bidibuff.asc
+M1 from_pad from_pad vdd N007 PMOS l=1U w=3U
+M2 vdd from_pad N010 N008 PMOS l=1U w=3U
+M3 vdd N010 to_core N009 PMOS l=1U w=3U
+M5 N010 from_pad 0 N012 NMOS l=1U w=1U
+M6 to_core N010 0 N013 NMOS l=1U w=1U
+M4 0 from_pad from_pad N011 NMOS l=1U w=1U
+V1 from_pad 0 PULSE(0 2 0 5us 5us 20us 50us)
+M7 Vdd Vdd N004 N002 NMOS l=1U w=1U
+M8 Vdd from_int_ckt out_to_pad N003 NMOS l=1U w=1U
+M9 N004 from_int_ckt 0 N005 NMOS w=1U ad=1U
+M10 out_to_pad N004 0 N006 NMOS l=1U w=1U
+V2 from_int_ckt 0 PULSE(0 2 0 5us 5us 20us 50us)
+M11 EN0 EN1 0 0 NMOS l=1U w=1U
+M12 Vdd EN1 EN0 N001 PMOS l=1U w=3U
+V3 EN1 0 PULSE(0 2 0 5us 5us 20us 50us)
+.model NMOS NMOS
+.model PMOS PMOS
+*.lib C:\Users\DELL\Documents\LTspiceXVII\lib\cmp\standard.mos
+Vdd Vdd 0 DC 3.8
+.tran 10000us 1m
+*.lib 180nm.lib
+*.backanno
+.end
