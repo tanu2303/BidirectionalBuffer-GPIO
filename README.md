@@ -73,16 +73,10 @@ ngspice is the open source simulator.
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/E.png)
 
 6.now give command plot en0,from_int_ckt,out_to_pad and waveform is seen
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/F.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/32/en0.png)
 
-7.now plot en1
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/G.png)
-
-8.now plot from_pad
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/H.png)
-
-9.now plot to_core
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NGSPICE%2032/I.png)
+7.now plot en1,from_pad,to_core
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ngspice%20images/32/en1.png)
 
 10.after execution give cmd quit
 
