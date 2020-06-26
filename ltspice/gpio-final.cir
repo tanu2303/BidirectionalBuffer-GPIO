@@ -1,0 +1,33 @@
+* C:\Users\DELL\Desktop\final ltspice.asc
+M1 A A vdd N013 PMOS l=0.18u w=50u
+M2 vdd A N017 N014 PMOS l=0.18u w=50u
+M3 vdd N017 TO_CORE N015 PMOS l=0.18u w=50u
+M5 N017 A 0 N020 NMOS l=0.18u w=50u
+M6 TO_CORE N017 0 N021 NMOS l=0.18u w=50u
+M4 0 A A N019 NMOS l=0.18u w=50u
+V1 A 0 PULSE(0 2 0 5us 5us 20us 50us)
+M7 Vdd Vdd N006 N004 NMOS l=0.18u w=50u
+M8 Vdd TO_CORE Y N005 NMOS l=0.18u w=50u
+M9 N006 TO_CORE 0 N009 NMOS l=0.18u w=50u
+M10 Y N006 0 N010 NMOS l=0.18u w=50u
+M11 en0 en1 0 0 NMOS l=0.18u w=50u
+M12 Vdd en1 en0 N002 PMOS l=0.18u w=50u
+M13 VDD PUEN TO_CORE N001 NMOS l=0.18u w=50u
+M14 N012 PDEN 0 N018 NMOS l=0.18u w=50u
+M15 N007 Y N008 N008 NMOS l=0.18u w=50u
+M16 N008 PI 0 0 NMOS l=0.18u w=50u
+M17 N003 Y N007 N003 PMOS l=0.18u w=50u
+M18 0 PI N003 N003 PMOS l=0.18u w=50u
+M19 VDD PDEN N012 N011 PMOS l=0.18u w=50u
+M20 TO_CORE N012 0 N016 PMOS l=0.18u w=50u
+V3 PUEN 0 PULSE(0 2 0 5us 5us 20us 50us)
+V2 PI 0 PULSE(0 2 0 5us 5us 20us 50us)
+V4 PDEN 0 PULSE(0 2 0 5us 5us 20us 50us)
+V5 en1 0 PULSE(0 2 0 5us 5us 20us 50us)
+.model NMOS NMOS
+.model PMOS PMOS
+*.lib C:\Users\DELL\Documents\LTspiceXVII\lib\cmp\standard.mos
+Vdd Vdd 0 DC 3.8
+.tran 10000us 1m
+*.backanno
+.end
