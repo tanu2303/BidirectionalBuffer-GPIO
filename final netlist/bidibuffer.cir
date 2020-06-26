@@ -1,0 +1,37 @@
+* E:\DETC(AE)\spice\bidibuff\bidibuffer.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 6/26/2020 2:33:47 PM
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+M12  Net-_M11-Pad1_ /PDEN Net-_M12-Pad3_ Net-_M12-Pad3_ eSim_MOS_P		
+M11  Net-_M11-Pad1_ /PDEN Earth Earth mosfet_n		
+M17  Net-_M15-Pad2_ Net-_M11-Pad1_ Net-_M17-Pad3_ Net-_M17-Pad3_ eSim_MOS_P		
+M2  /A /A /ENABLE /ENABLE eSim_MOS_P		
+M9  Net-_M13-Pad2_ /A /ENABLE /ENABLE eSim_MOS_P		
+M16  /OUT-TO-PAD Net-_M13-Pad2_ /ENABLE /ENABLE eSim_MOS_P		
+M1  /A /A Earth Earth eSim_MOS_N		
+M8  Net-_M13-Pad2_ /A Earth Earth eSim_MOS_N		
+M13  /OUT-TO-PAD Net-_M13-Pad2_ Earth Earth eSim_MOS_N		
+M5  Net-_M3-Pad1_ /Y Net-_M5-Pad3_ Net-_M5-Pad3_ eSim_MOS_P		
+M10  Earth /PI Net-_M10-Pad3_ Net-_M10-Pad3_ eSim_MOS_P		
+M3  Net-_M3-Pad1_ /Y Net-_M3-Pad3_ Net-_M3-Pad3_ eSim_MOS_N		
+M4  Net-_M3-Pad3_ /PI Earth Earth eSim_MOS_N		
+M7  Net-_M7-Pad1_ Net-_M7-Pad2_ Net-_M14-Pad2_ Net-_M14-Pad2_ eSim_MOS_N		
+M15  Net-_M15-Pad1_ Net-_M15-Pad2_ /Y /Y eSim_MOS_N		
+M6  Net-_M14-Pad2_ Net-_M15-Pad2_ Net-_M6-Pad3_ Net-_M6-Pad3_ eSim_MOS_N		
+M14  /Y Net-_M14-Pad2_ Net-_M14-Pad3_ Net-_M14-Pad3_ eSim_MOS_N		
+M18  Net-_M15-Pad2_ /PUEN Net-_M18-Pad3_ Net-_M18-Pad3_ eSim_MOS_N		
+U3  /Y Net-_M5-Pad3_ Net-_M7-Pad2_ Net-_M12-Pad3_ Net-_M15-Pad1_ Net-_M7-Pad1_ Net-_M18-Pad3_ Net-_M15-Pad2_ PORT		
+U5  Net-_U5-Pad1_ /ENABLE d_inverter		
+v5  /PUEN Earth pulse		
+v6  /OUT-TO-PAD Earth pulse		
+v4  /PDEN Earth pulse		
+v2  Net-_U5-Pad1_ Earth pulse		
+v1  /A Earth pulse		
+v3  /PI Earth pulse		
+U2  /PI PORT		
+
+.end
