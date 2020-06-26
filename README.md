@@ -10,6 +10,12 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 # characterstics graphs as per circuit
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/img/Screenshot%20(4604).png)
 
+# by ngspice
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ltspice/Screenshot%20(4661).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ltspice/Screenshot%20(4662).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/ltspice/Screenshot%20(4663).png)
+
+
 # steps to run circuit
 # by esim
 1.OPEN ESIM AND CREATE NEW PROJECT.
