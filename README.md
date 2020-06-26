@@ -1,6 +1,34 @@
 # BIDIRECTIONAL BUFFER
 This project discusses the BiDirectional Buffer and implementation of General Purpose Input Output(GPIO).GPIO circuit is implemented using MOSFETS' only and it is all Mosfets' implementation.
 
+# block diagram
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
+
+# circuit diagram
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
+
+# characterstics graphs as per circuit
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
+
+# steps to run circuit
+# by esim
+1.OPEN ESIM AND CREATE NEW PROJECT.
+2.open schematic and design circuit.
+3.after designing , annotate circuit and perform electric checks.
+4.click on generate netlist.
+5.select spice->def generate.
+6.save.cir file.
+7.now convert kicad to ngspice.
+8.enter analysis,source details,device modelling(180 nm) and w and l.
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/NETLIST-.cir/ckt-gpio.png)
+9. click on convert.
+10.click ok and start simulation.
+
+# by ltspice
+ mention below
+
 # TOOL USED
 LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceXVII is a spice simulation software produced by semiconductor manufacturer Analog Devices. Schematic of circuits and the waveforms can be obtained easily from this tool.
 
