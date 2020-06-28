@@ -1,0 +1,58 @@
+Circuit: * gpio
+
+WARNING: Node N008 is floating.
+WARNING: Node N001 is floating.
+WARNING: Node N015 is floating.
+WARNING: Node N012 is floating.
+WARNING: Node N014 is floating.
+
+WARNING: Less than two connections to node PO.  This node is used by M17.
+WARNING: Less than two connections to node NC_01.  This node is used by M25.
+Instance "m24": Length shorter than recommended for a level 1 MOSFET.
+Instance "m24": Width narrower than recommended for a level 1 MOSFET.
+Instance "m23": Length shorter than recommended for a level 1 MOSFET.
+Instance "m23": Width narrower than recommended for a level 1 MOSFET.
+Instance "m20": Length shorter than recommended for a level 1 MOSFET.
+Instance "m20": Width narrower than recommended for a level 1 MOSFET.
+Instance "m19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m19": Width narrower than recommended for a level 1 MOSFET.
+Instance "m18": Length shorter than recommended for a level 1 MOSFET.
+Instance "m18": Width narrower than recommended for a level 1 MOSFET.
+Instance "m17": Length shorter than recommended for a level 1 MOSFET.
+Instance "m17": Width narrower than recommended for a level 1 MOSFET.
+Instance "m12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m12": Width narrower than recommended for a level 1 MOSFET.
+Instance "m22": Length shorter than recommended for a level 1 MOSFET.
+Instance "m22": Width narrower than recommended for a level 1 MOSFET.
+Instance "m21": Length shorter than recommended for a level 1 MOSFET.
+Instance "m21": Width narrower than recommended for a level 1 MOSFET.
+Instance "m16": Length shorter than recommended for a level 1 MOSFET.
+Instance "m16": Width narrower than recommended for a level 1 MOSFET.
+Instance "m15": Length shorter than recommended for a level 1 MOSFET.
+Instance "m15": Width narrower than recommended for a level 1 MOSFET.
+Instance "m14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m14": Width narrower than recommended for a level 1 MOSFET.
+Instance "m13": Length shorter than recommended for a level 1 MOSFET.
+Instance "m13": Width narrower than recommended for a level 1 MOSFET.
+Instance "m11": Length shorter than recommended for a level 1 MOSFET.
+Instance "m11": Width narrower than recommended for a level 1 MOSFET.
+.OP point found by inspection.
+
+Date: Sun Jun 28 13:10:28 2020
+Total elapsed time: 0.906 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3209
+traniter = 3209
+tranpoints = 1426
+accept = 1337
+rejected = 89
+matrix size = 31
+fillins = 0
+solver = Normal
+Thread vector: 14.5/12.9[2] 37.8/19.2[2] 2.7/3.4[1] 0.4/41.5[1]  2592/500
+Matrix Compiler1: 2.12 KB object code size  3.6/7.4/[0.4]
+Matrix Compiler2: 3.14 KB object code size  4.6/2.4/[0.5]
+
