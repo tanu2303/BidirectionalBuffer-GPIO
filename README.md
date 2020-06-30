@@ -11,6 +11,19 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 # circuit diagram
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/ckt.png)
 
+
+# stage 4 waveforms
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4795).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4796).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4797).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4798).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4799).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4800).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4801).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4802).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4803).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4804).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4805).png)
 in parts
 part1:
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/ckt1.png)
