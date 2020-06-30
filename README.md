@@ -12,25 +12,37 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/ckt.png)
 
 
-# stage 4 waveforms
+# characterstics graphs as per circuit
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4795).png)
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4796).png)
+
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(4806).png)
+
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4799).png)
+
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4800).png)
+
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4801).png)
+
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4802).png)
+
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4803).png)
+
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4804).png)
+
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4805).png)
-in parts
+
+# circuit diagram (in parts)
 part1:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/ckt1.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(4807).png)
 
 part2:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/ckt2.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(4808).png)
 
 part3:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/ckt3.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(4809).png)
+
+part4:
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(4810).png)
 
 # characterstics graphs as per circuit
 
