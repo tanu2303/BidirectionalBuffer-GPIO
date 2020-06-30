@@ -15,8 +15,6 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 # stage 4 waveforms
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4795).png)
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4796).png)
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4797).png)
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4798).png)
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4799).png)
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4800).png)
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/stage4/Screenshot%20(4801).png)
