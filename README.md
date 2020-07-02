@@ -55,7 +55,6 @@ part3:
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ngspice/3n.png)
 
 # tristate buffer
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/New/Screenshot%20(4979).png)
 
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/New/Screenshot%20(4980).png)
 
