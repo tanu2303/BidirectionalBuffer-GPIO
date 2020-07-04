@@ -35,6 +35,10 @@ part3:
 
 # LAYOUT 
 
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layout/Screenshot%20(5091).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layout/Screenshot%20(5092).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layout/Screenshot%20(5093).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layout/Screenshot%20(5094).png)
 
 # characterstics graphs as per circuit
 
