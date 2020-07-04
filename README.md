@@ -33,19 +33,17 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 
 # circuit diagram (in parts)
 part1:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/New/Screenshot%20(4984).png)
-
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(5061).png)
 part2:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/New/Screenshot%20(4985).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(5062).png)
 
 part3:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/New/Screenshot%20(4986).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(5063).png)
 
 # characterstics graphs as per circuit
 
 # ltspice
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/1l.png)
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/l3.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(5107).png)
 
 # by ngspice
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ngspice/1n.png)
