@@ -51,17 +51,15 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/6july/Screenshot%20(5169).png)
 
 # layout
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5190).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/layout.png)
 
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5191).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/buffer.png)
 
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5192).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/inv.png)
 
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5193).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/nand.png)
 
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5194).png)
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5195).png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/tbuff.png)
 
 
 
@@ -76,22 +74,6 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(5064).png)
 
-# circuit diagram (in parts)
-part1:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(5061).png)
-part2:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(5062).png)
-
-part3:
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/png/Screenshot%20(5063).png)
-
-
-# LAYOUT 
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layout/Screenshot%20(5091).png)
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layout/Screenshot%20(5092).png)
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layout/Screenshot%20(5093).png)
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layout/Screenshot%20(5094).png)
 
 # characterstics graphs as per circuit
 
@@ -105,13 +87,6 @@ part3:
 
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ngspice/3n.png)
 
-# tristate buffer
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/New/Screenshot%20(4980).png)
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/New/Screenshot%20(4981).png)
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/New/Screenshot%20(4983).png)
 
 # TOOL USED
 LTspiceXVII is used to simulate the General Purpose Input Output(GPIO). LtspiceXVII is a spice simulation software produced by semiconductor manufacturer Analog Devices. Schematic of circuits and the waveforms can be obtained easily from this tool.
