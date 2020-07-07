@@ -9,8 +9,9 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/img/Screenshot%20(4609).png)
 
 # circuit diagram
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Waveforms_ltspice/ckt.png)
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Circuit/Screenshot%20(5203).png)
 
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/Circuit/Screenshot%20(5204).png)
 
 # characterstics graphs as per Truth Table
 
