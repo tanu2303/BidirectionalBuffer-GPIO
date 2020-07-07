@@ -1,0 +1,42 @@
+*** SPICE deck for cell d{lay} from library CMOScells
+*** Created on Tue Jul 07, 2020 12:04:23
+*** Last revised on Tue Jul 07, 2020 12:42:34
+*** Written on Tue Jul 07, 2020 12:48:28 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+*CMOS/BULK-NWELL (PRELIMINARY PARAMETERS)
+.OPTIONS NOMOD DEFL=3UM DEFW=3UM DEFAD=70P DEFAS=70P LIMPTS=1000
++ITL5=0 RELTOL=0.01 ABSTOL=500PA VNTOL=500UV LVLTIM=2
++LVLCOD=1
+.MODEL N NMOS LEVEL=1
++KP=60E-6 VTO=0.7 GAMMA=0.3 LAMBDA=0.05 PHI=0.6
++LD=0.4E-6 TOX=40E-9 CGSO=2.0E-10 CGDO=2.0E-10 CJ=.2MF/M^2
+.MODEL P PMOS LEVEL=1
++KP=20E-6 VTO=0.7 GAMMA=0.4 LAMBDA=0.05 PHI=0.6
++LD=0.6E-6 TOX=40E-9 CGSO=3.0E-10 CGDO=3.0E-10 CJ=.2MF/M^2
+.MODEL DIFFCAP D CJO=.2MF/M^2
+*** WARNING: no power connection for P-transistor wells in cell 'd{lay}'
+*** WARNING: no ground connection for N-transistor wells in cell 'd{lay}'
+
+*** TOP LEVEL CELL: d{lay}
+Mnmos@0 net@19 net@6 net@1 gnd N L=0.6U W=3.6U AS=8.19P AD=1.89P PS=16.5U PD=5.1U
+Mnmos@1 net@0 net@3 net@19 gnd N L=0.6U W=3.6U AS=1.89P AD=4.14P PS=5.1U PD=7.1U
+Mnmos@2 net@36 net@40 net@47 gnd N L=0.6U W=1.8U AS=5.22P AD=4.455P PS=12.9U PD=8.7U
+Mnmos@3 net@56 net@60 net@67 gnd N L=0.6U W=1.8U AS=5.22P AD=4.455P PS=12.9U PD=8.7U
+Mnmos@4 net@6 net@56 net@87 gnd N L=0.6U W=1.8U AS=5.22P AD=4.455P PS=12.9U PD=8.7U
+Mnmos@5 net@96 net@96 net@107 gnd N L=0.6U W=1.8U AS=5.22P AD=4.455P PS=12.9U PD=8.7U
+Mnmos@6 net@60 net@96 net@127 gnd N L=0.6U W=1.8U AS=5.22P AD=18.321P PS=12.9U PD=40.613U
+Mnmos@8 nmos@8_diff-bottom net@96 nmos@8_diff-top gnd N L=0.6U W=0.9U AS=0.81P AD=0.81P PS=3.6U PD=3.6U
+Mnmos@9 nmos@9_diff-bottom net@96 nmos@9_diff-top gnd N L=0.6U W=0.9U AS=0.81P AD=0.81P PS=3.6U PD=3.6U
+Mnmos@10 net@60 net@213 nmos@10_diff-top gnd N L=0.6U W=0.9U AS=0.81P AD=18.321P PS=3.6U PD=40.613U
+pmos-hv1@1 pmos-hv1@1_diff-bottom net@96 pmos-hv1@1_diff-top AREA=0.54P
+pmos-hv1@2 pmos-hv1@2_diff-bottom net@96 pmos-hv1@2_diff-top AREA=0.54P
+pmos-hv1@3 pmos-hv1@3_diff-bottom net@36 net@60 AREA=0.54P
+Mpmos@0 net@2 net@3 net@0 vdd P L=0.6U W=3.6U AS=4.14P AD=7.065P PS=7.1U PD=13.5U
+Mpmos@1 net@0 net@6 net@2 vdd P L=0.6U W=3.6U AS=7.065P AD=4.14P PS=13.5U PD=7.1U
+Mpmos@2 net@36 net@40 net@37 vdd P L=0.6U W=3.6U AS=8.19P AD=4.455P PS=16.5U PD=8.7U
+Mpmos@3 net@56 net@60 net@57 vdd P L=0.6U W=3.6U AS=8.19P AD=4.455P PS=16.5U PD=8.7U
+Mpmos@4 net@6 net@56 net@77 vdd P L=0.6U W=3.6U AS=8.19P AD=4.455P PS=16.5U PD=8.7U
+Mpmos@5 net@96 net@96 net@97 vdd P L=0.6U W=3.6U AS=8.19P AD=4.455P PS=16.5U PD=8.7U
+Mpmos@6 net@60 net@96 net@117 vdd P L=0.6U W=3.6U AS=8.19P AD=18.321P PS=16.5U PD=40.613U
+.END
