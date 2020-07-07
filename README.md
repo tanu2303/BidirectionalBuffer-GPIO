@@ -49,6 +49,19 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 8.OUT_T (PAD)
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/6july/Screenshot%20(5169).png)
 
+# layout
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5190).png)
+
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5191).png)
+
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5192).png)
+
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5193).png)
+
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5194).png)
+
+![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/7july/Screenshot%20(5195).png)
+
 
 
 # previous
