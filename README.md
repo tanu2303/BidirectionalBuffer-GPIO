@@ -51,16 +51,6 @@ This project discusses the BiDirectional Buffer and implementation of General Pu
 ![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/6july/Screenshot%20(5169).png)
 
 # layout
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/layout.png)
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/buffer.png)
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/inv.png)
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/nand.png)
-
-![](https://github.com/tanu2303/BidirectionalBuffer-GPIO/blob/master/layouts/tbuff.png)
-
 
 
 # previous
